@@ -1,0 +1,57 @@
+.header {
+	padding: 8px;
+	background-color: #00db5f;
+}
+body {
+	background-color: black;
+	margin: 0;
+}
+.header p {
+	color: black;
+	text-align: left;
+	font-family: Courier New;
+	font-size: 30px;
+}
+body h1 {
+	color: #00db5f;
+	margin-left: 50px;
+	font-size: 60px;
+}
+.header #pages {
+	text-align: right;
+	font-size: 30px;
+	margin-left: 70px;
+}
+.header ul li {
+	border: solid 1px;
+	border-radius: 5px;
+	display: inline;
+}
+.header img {
+	float: left;
+	width: 95px;
+	margin-right: 30px;
+}	
+.logo {
+	border: solid 5px;
+	border-radius: 5px;
+}
+#pages a {
+	color: black;
+	text-decoration: none;
+}
+#pages a:hover {
+	background-color: black;
+	color: #00db5f
+}
+.Intro p {
+	color: #00db5f;
+	margin-left: 50px;
+	font-family: Arial;
+	font-size: 30px;
+}
+.Intro {
+	margin: 80px;
+	border: solid 5px;
+	border-color: #00db5f;
+}
